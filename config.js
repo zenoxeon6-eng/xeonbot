@@ -3,7 +3,7 @@ const fs = require('fs')
 global.prefa = ['','!','.',',','🗿']
 
 // === LICENSE KEY FOR BUYERS ===
-global.licenseKey = "XEON-A66F92B99D4F919EB69DE6FACDC0EB01";   // Buyer puts their key here
+global.licenseKey = "XEON-0C1446E7355B3163B91981584E03B286";   // Buyer puts their key here
 global.waownernumber = ["56932815564"]
 global.tgownername = 'DGXeon13'
 
